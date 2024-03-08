@@ -1,0 +1,242 @@
+@import "_rebote.css";
+
+.headlogo{
+    width: 112px;
+    height: 66px;
+    margin: 0 73px 96px 121px;
+}
+.container{
+    margin-left: 121px;
+}
+.headline{
+    
+    margin-left: 121px;
+    display: flex;
+
+    
+}
+.column{
+    display: flex;
+    margin-right: 25px;
+}
+.firstdiv{
+
+    margin-left: 122px;
+    
+}
+.part1head{
+    width: 628px;
+    height: 190px;
+    font-weight: 700px;
+    font-size: 80px;
+    line-height: 81px;
+    margin-top: 29px;
+    
+     
+}
+.headunder{
+    width: 414px;
+    height: 62px;
+    
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+    
+}
+.noroot-1{
+    width: 304px;
+    height: 356px;
+    margin-left: 140px;
+    
+}
+.film{
+    display: flex;
+}
+.sqrt{
+    width: 483.6px;
+  height: 200px;
+  flex-grow: 0;
+  margin-left: 409px;
+  padding: 19.3px 27px 67.7px 26px;
+  border-radius: 5px;
+  background-color: #1e4681;
+}
+.author{
+    color: aliceblue;
+    font-size: 25px;
+    text-align: right;
+    padding-top: 25px;
+}
+.textthing{
+    color: white;
+    font-size: 25px;
+}
+.part2{
+    margin-top: 173px;
+}
+.cours{
+    font-size: 55px;
+    
+
+}
+.textcourse{
+    width: 662px;
+    font-size: 24px;
+    margin-top: 18px;
+}
+.photo_1-1{
+    width: 314px;
+    height: 315px;
+    margin-left: 190px;
+}
+.coursediv{
+    display: flex;
+    
+}
+.photo1{
+    width: 232px;
+    height: 203px;
+}
+.part2foot{
+    display: flex;
+    margin-top: 94px;
+}
+.rightline{
+    display: flex;
+    margin-left: 130px;
+}
+.part2text{
+    width: 150px;
+}
+.column2{
+    margin-left: 92px;
+    
+}
+.part3{
+    margin-top: 178px;
+}
+.format{
+    font-size: 55px;
+    width: 667px;
+}
+.part3foot{
+    display: flex;
+    margin-top: 82px;
+}
+.column3{
+    margin-right: 120px;
+}
+.column3 h3{
+    color: #1E4681;
+
+}
+.column3 p{
+    width: 270px;
+    margin-top: 1px;
+}
+.part4{
+    margin-top: 179px;
+}
+.part4header{
+    font-size: 55px;
+    height: 93px;
+}
+.part5{
+    margin-top: 248px;
+}
+.part5header{
+    height: 93px;
+    font-size: 55px;
+}
+.column-5{
+    width: 399px;
+    border-radius: 30px;
+    border: 2px solid grey;
+    height: 328px;
+    margin-right: 37px;
+    overflow: hidden;
+}
+.photopart5{
+    height: 160px;
+    width: 397px;
+}
+.columnheader{
+    font-size: 30px;
+    padding-left: 20px;
+}
+.columntext{
+    font-size: 25px;
+    padding-left: 20px;
+    padding-top: 40px;
+}
+.columntext1{
+    padding-left: 20px;
+    padding-top: 11px;
+    font-size: 25px;
+}
+.row-1{
+    display: flex;
+}
+.row-2{
+    display: flex;
+    margin-top: 41px;
+}
+.row-3{
+    display: flex;
+    margin-top: 41px;
+}
+.part6{
+    background-color:lightgray;
+    width: 1440px;
+    height: 780px;
+    margin-top: 121px;
+    
+   
+}
+.part6header{
+    padding-top: 91px;
+    font-size: 55px;
+    height: 93px;
+}
+.frame1{
+    width: 791px;
+    height: 451px;
+    background-color: #fff;
+    border-radius: 30px;
+    padding-top: 40px;
+    margin-top: 218px;  
+}
+.part6text{
+    width: 746px;
+    height: 203px;
+    padding: 45px;
+    font-size: 20px;
+}
+.ekatrina{
+    width: 190px;
+    height: 169px;
+    padding: 20px;
+    
+}
+.logoface{
+    width: 32px;
+    height: 31px;
+    margin-top: ;
+}
+.framefoot{
+    display: flex;
+    
+}
+.framefootright{
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.part6author{
+    font-size: 30px;
+    height: 59px;
+}
